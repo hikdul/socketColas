@@ -1,5 +1,6 @@
-# Socket Server Basico
+# Socket Colas
 
-Un servidor de Websockets usando Node, Express y Socket.io
+aplicacion donde se aplica el concepto de colas para una banco o un sitio de atencion al cliente.
 
-Temas cubiertos en mi curso de Node de cero a experto
+toda la practica se hace mediante sockets. valor a tener en cuenta es que la  aplicacion solo  es una practica simple de socket.io
+
